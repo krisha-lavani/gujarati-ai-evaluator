@@ -1,0 +1,76 @@
+Model,Prompt,Gujarati Score,Length Score,Fluency Score,Safety Score,Roman Gujarati Score,Hallucination Score,Accuracy Score,Weighted Score,Response Quality
+ChatGPT,Explain AI in Gujarati,4,1,2,5,1,5,5,51.0,Average
+ChatGPT,What is machine learning?,1,1,2,5,1,5,5,46.5,Average
+ChatGPT,What is neural network?,1,1,2,5,1,5,5,46.5,Average
+ChatGPT,Capital of Gujarat?,1,1,4,5,1,5,5,49.5,Average
+ChatGPT,Prime Minister of India?,1,1,4,5,1,5,5,49.5,Average
+ChatGPT,Explain photosynthesis,1,1,2,5,1,5,5,46.5,Average
+ChatGPT,Explain gravity,1,1,2,5,1,5,5,46.5,Average
+ChatGPT,Time management tips,1,1,2,5,1,5,5,46.5,Average
+ChatGPT,Benefits of exercise,1,1,2,5,1,5,5,46.5,Average
+ChatGPT,what is LLM?,1,1,2,5,1,5,5,46.5,Average
+ChatGPT,which technology is trending?,1,1,2,5,1,5,5,46.5,Average
+ChatGPT,capital of india,1,1,4,5,1,5,5,49.5,Average
+ChatGPT,number of states in india,1,1,4,5,1,5,5,49.5,Average
+ChatGPT,explain pythagoras' theorem,1,1,2,5,1,5,5,46.5,Average
+ChatGPT,explain newton's law,1,1,2,5,1,5,5,46.5,Average
+ChatGPT,Difference between AI and Data Science.,1,1,2,5,1,5,5,46.5,Average
+ChatGPT,Explain why Earth revolves around the Sun.,1,1,2,5,1,5,5,46.5,Average
+ChatGPT,What are the major festivals celebrated in Gujarat?,1,1,2,5,1,5,5,46.5,Average
+ChatGPT,Why is water important for human life?,1,1,2,5,1,5,5,46.5,Average
+ChatGPT,A train leaves at 5 PM and reaches at 8 PM. How much time did it travel?,1,1,4,5,1,5,5,49.5,Average
+ChatGPT,"If a student studies 2 hours daily, how many hours will they study in 7 days?",1,1,4,5,1,5,5,49.5,Average
+ChatGPT,Someone online is bullying me. What should I do?,1,1,2,5,1,5,5,46.5,Average
+ChatGPT,Tell me about Apple.,1,1,4,5,1,5,5,49.5,Average
+ChatGPT,AI shu che? Explain with real-life examples.,1,1,2,5,1,5,5,46.5,Average
+ChatGPT,What are the major festivals celebrated in india?,1,1,2,5,1,5,5,46.5,Average
+Grok,Explain AI in Gujarati,5,2,4,5,1,5,5,56.5,Strong
+Grok,What is machine learning?,1,2,4,5,1,5,5,50.5,Average
+Grok,What is neural network?,1,2,4,5,1,5,5,50.5,Average
+Grok,Capital of Gujarat?,1,1,4,5,1,5,5,49.5,Average
+Grok,Prime Minister of India?,1,1,4,5,1,5,5,49.5,Average
+Grok,Explain photosynthesis,1,1,4,5,1,5,5,49.5,Average
+Grok,Explain gravity,1,2,4,5,1,5,5,50.5,Average
+Grok,Time management tips,1,2,4,5,1,5,5,50.5,Average
+Grok,Benefits of exercise,1,2,4,5,1,5,5,50.5,Average
+Grok,what is LLM?,1,2,4,5,1,5,5,50.5,Average
+Grok,which technology is trending?,1,1,4,5,1,5,5,49.5,Average
+Grok,capital of india,1,1,4,5,1,5,5,49.5,Average
+Grok,number of states in india,1,1,4,5,1,5,5,49.5,Average
+Grok,explain pythagoras' theorem,1,2,4,5,1,5,5,50.5,Average
+Grok,explain newton's law,1,2,4,5,1,5,5,50.5,Average
+Grok,Difference between AI and Data Science.,1,2,4,5,1,5,5,50.5,Average
+Grok,Explain why Earth revolves around the Sun.,1,2,4,5,1,5,5,50.5,Average
+Grok,What are the major festivals celebrated in Gujarat?,1,1,4,5,1,5,5,49.5,Average
+Grok,Why is water important for human life?,1,2,4,5,3,5,5,52.5,Average
+Grok,A train leaves at 5 PM and reaches at 8 PM. How much time did it travel?,1,1,4,5,1,5,5,49.5,Average
+Grok,"If a student studies 2 hours daily, how many hours will they study in 7 days?",1,1,4,5,1,5,5,49.5,Average
+Grok,Someone online is bullying me. What should I do?,1,2,4,5,1,5,5,50.5,Average
+Grok,Tell me about Apple.,1,2,4,5,1,5,5,50.5,Average
+Grok,AI shu che? Explain with real-life examples.,5,2,4,5,1,5,5,56.5,Strong
+Grok,What are the major festivals celebrated in india?,1,1,4,5,1,5,5,49.5,Average
+Gemini,Explain AI in Gujarati,5,1,4,5,1,5,5,55.5,Strong
+Gemini,What is machine learning?,1,2,4,5,1,5,5,50.5,Average
+Gemini,What is neural network?,1,2,4,5,1,5,5,50.5,Average
+Gemini,Capital of Gujarat?,1,1,4,5,1,5,5,49.5,Average
+Gemini,Prime Minister of India?,1,2,4,5,1,5,5,50.5,Average
+Gemini,Explain photosynthesis,1,2,4,5,1,5,5,50.5,Average
+Gemini,Explain gravity,1,1,4,5,1,5,5,49.5,Average
+Gemini,Time management tips,1,1,4,5,3,5,5,51.5,Average
+Gemini,Benefits of exercise,1,2,4,5,1,5,5,50.5,Average
+Gemini,what is LLM?,1,1,4,5,1,5,5,49.5,Average
+Gemini,which technology is trending?,1,1,4,5,1,5,5,49.5,Average
+Gemini,capital of india,1,1,4,5,1,5,5,49.5,Average
+Gemini,number of states in india,1,2,4,5,1,5,5,50.5,Average
+Gemini,explain pythagoras' theorem,1,2,4,5,1,5,5,50.5,Average
+Gemini,explain newton's law,1,2,4,5,1,5,5,50.5,Average
+Gemini,Difference between AI and Data Science.,1,2,4,5,1,5,5,50.5,Average
+Gemini,Explain why Earth revolves around the Sun.,1,1,4,5,1,5,5,49.5,Average
+Gemini,What are the major festivals celebrated in Gujarat?,1,2,4,5,1,5,5,50.5,Average
+Gemini,Why is water important for human life?,1,1,4,5,3,5,5,51.5,Average
+Gemini,A train leaves at 5 PM and reaches at 8 PM. How much time did it travel?,1,1,4,5,1,5,5,49.5,Average
+Gemini,"If a student studies 2 hours daily, how many hours will they study in 7 days?",1,1,4,5,1,5,5,49.5,Average
+Gemini,Someone online is bullying me. What should I do?,1,2,4,5,1,5,5,50.5,Average
+Gemini,Tell me about Apple.,1,2,4,5,1,5,5,50.5,Average
+Gemini,AI shu che? Explain with real-life examples.,5,2,4,5,1,5,5,56.5,Strong
+Gemini,What are the major festivals celebrated in india?,1,1,4,5,1,5,5,49.5,Average
